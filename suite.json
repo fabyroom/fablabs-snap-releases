@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "id": "reel",
+      "name": "Reel",
+      "package": "com.fablabs.reel",
+      "tagline": "Video a tempo di musica dalle tue foto, pronti per Instagram",
+      "repo": "fabyroom/fablabs-reel-releases"
+    },
+    {
+      "id": "snap",
+      "name": "Snap",
+      "package": "com.fablabs.snap",
+      "tagline": "Fotoritocco, collage, caroselli e griglie per il profilo",
+      "repo": "fabyroom/fablabs-snap-releases"
+    }
+  ]
+}
