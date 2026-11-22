@@ -13,6 +13,13 @@
       "package": "com.fablabs.snap",
       "tagline": "Fotoritocco, collage, caroselli e griglie per il profilo",
       "repo": "fabyroom/fablabs-snap-releases"
+    },
+    {
+      "id": "studio",
+      "name": "Studio",
+      "package": "com.fablabs.studio",
+      "tagline": "Crea musica in pochi tocchi e mandala a Reel",
+      "soon": "In arrivo"
     }
   ]
 }
