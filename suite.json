@@ -19,7 +19,7 @@
       "name": "Studio",
       "package": "com.fablabs.studio",
       "tagline": "Crea musica in pochi tocchi e mandala a Reel",
-      "soon": "In arrivo"
+      "repo": "fabyroom/fablabs-studio-releases"
     }
   ]
 }
